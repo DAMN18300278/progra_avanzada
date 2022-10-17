@@ -1,0 +1,15 @@
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\treenodes\bin\Debug\net6.0\treenodes.exe
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\treenodes\bin\Debug\net6.0\treenodes.deps.json
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\treenodes\bin\Debug\net6.0\treenodes.runtimeconfig.json
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\treenodes\bin\Debug\net6.0\treenodes.dll
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\treenodes\bin\Debug\net6.0\treenodes.pdb
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\treenodes\obj\Debug\net6.0\treenodes.csproj.AssemblyReference.cache
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\treenodes\obj\Debug\net6.0\treenodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\treenodes\obj\Debug\net6.0\treenodes.AssemblyInfoInputs.cache
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\treenodes\obj\Debug\net6.0\treenodes.AssemblyInfo.cs
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\treenodes\obj\Debug\net6.0\treenodes.csproj.CoreCompileInputs.cache
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\treenodes\obj\Debug\net6.0\treenodes.dll
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\treenodes\obj\Debug\net6.0\refint\treenodes.dll
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\treenodes\obj\Debug\net6.0\treenodes.pdb
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\treenodes\obj\Debug\net6.0\treenodes.genruntimeconfig.cache
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\treenodes\obj\Debug\net6.0\ref\treenodes.dll

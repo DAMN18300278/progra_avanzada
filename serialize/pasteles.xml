@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPasteles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Pasteles>
+		<name>
+			Tarta
+		</name>
+		<sugar>
+			2 kg
+		</sugar>
+		<milk>
+			2 cups
+		</milk>
+		<children>
+			<Pasteles>
+				<name>
+					Tarta de manzana
+				</name>
+				<sugar>
+					3 kg
+				</sugar>
+				<milk>
+					3 cups
+				</milk>
+			</Pasteles>
+		</children>
+	</Pasteles>
+	<Pasteles>
+		<name>
+			Flume
+		</name>
+		<sugar>
+			4 kg
+		</sugar>
+		<milk>
+			4 cups
+		</milk>
+	</Pasteles>
+</ArrayOfPasteles>

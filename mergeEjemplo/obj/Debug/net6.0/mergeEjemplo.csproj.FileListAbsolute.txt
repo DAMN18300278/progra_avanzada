@@ -1,0 +1,15 @@
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\mergeEjemplo\bin\Debug\net6.0\mergeEjemplo.exe
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\mergeEjemplo\bin\Debug\net6.0\mergeEjemplo.deps.json
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\mergeEjemplo\bin\Debug\net6.0\mergeEjemplo.runtimeconfig.json
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\mergeEjemplo\bin\Debug\net6.0\mergeEjemplo.dll
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\mergeEjemplo\bin\Debug\net6.0\mergeEjemplo.pdb
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\mergeEjemplo\obj\Debug\net6.0\mergeEjemplo.csproj.AssemblyReference.cache
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\mergeEjemplo\obj\Debug\net6.0\mergeEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\mergeEjemplo\obj\Debug\net6.0\mergeEjemplo.AssemblyInfoInputs.cache
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\mergeEjemplo\obj\Debug\net6.0\mergeEjemplo.AssemblyInfo.cs
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\mergeEjemplo\obj\Debug\net6.0\mergeEjemplo.csproj.CoreCompileInputs.cache
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\mergeEjemplo\obj\Debug\net6.0\mergeEjemplo.dll
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\mergeEjemplo\obj\Debug\net6.0\refint\mergeEjemplo.dll
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\mergeEjemplo\obj\Debug\net6.0\mergeEjemplo.pdb
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\mergeEjemplo\obj\Debug\net6.0\mergeEjemplo.genruntimeconfig.cache
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\mergeEjemplo\obj\Debug\net6.0\ref\mergeEjemplo.dll

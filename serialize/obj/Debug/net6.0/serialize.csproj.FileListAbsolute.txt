@@ -1,0 +1,15 @@
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\serialize\obj\Debug\net6.0\serialize.csproj.AssemblyReference.cache
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\serialize\obj\Debug\net6.0\serialize.GeneratedMSBuildEditorConfig.editorconfig
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\serialize\obj\Debug\net6.0\serialize.AssemblyInfoInputs.cache
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\serialize\obj\Debug\net6.0\serialize.AssemblyInfo.cs
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\serialize\obj\Debug\net6.0\serialize.csproj.CoreCompileInputs.cache
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\serialize\bin\Debug\net6.0\serialize.exe
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\serialize\bin\Debug\net6.0\serialize.deps.json
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\serialize\bin\Debug\net6.0\serialize.runtimeconfig.json
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\serialize\bin\Debug\net6.0\serialize.dll
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\serialize\bin\Debug\net6.0\serialize.pdb
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\serialize\obj\Debug\net6.0\serialize.dll
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\serialize\obj\Debug\net6.0\refint\serialize.dll
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\serialize\obj\Debug\net6.0\serialize.pdb
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\serialize\obj\Debug\net6.0\serialize.genruntimeconfig.cache
+D:\CETI 7mo semestre\Programación avanzada 1\Ejercicios\serialize\obj\Debug\net6.0\ref\serialize.dll
