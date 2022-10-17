@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\CETI 7mo semestre\Programación avanzada 1\Ejercicios\bin\Debug\net6.0\Ejercicios.exe
+C:\Users\Diego\Desktop\CETI 7mo semestre\Programación avanzada 1\Ejercicios\bin\Debug\net6.0\Ejercicios.deps.json
+C:\Users\Diego\Desktop\CETI 7mo semestre\Programación avanzada 1\Ejercicios\bin\Debug\net6.0\Ejercicios.runtimeconfig.json
+C:\Users\Diego\Desktop\CETI 7mo semestre\Programación avanzada 1\Ejercicios\bin\Debug\net6.0\Ejercicios.dll
+C:\Users\Diego\Desktop\CETI 7mo semestre\Programación avanzada 1\Ejercicios\bin\Debug\net6.0\Ejercicios.pdb
+C:\Users\Diego\Desktop\CETI 7mo semestre\Programación avanzada 1\Ejercicios\obj\Debug\net6.0\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\CETI 7mo semestre\Programación avanzada 1\Ejercicios\obj\Debug\net6.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\CETI 7mo semestre\Programación avanzada 1\Ejercicios\obj\Debug\net6.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\CETI 7mo semestre\Programación avanzada 1\Ejercicios\obj\Debug\net6.0\Ejercicios.AssemblyInfo.cs
+C:\Users\Diego\Desktop\CETI 7mo semestre\Programación avanzada 1\Ejercicios\obj\Debug\net6.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\CETI 7mo semestre\Programación avanzada 1\Ejercicios\obj\Debug\net6.0\Ejercicios.dll
+C:\Users\Diego\Desktop\CETI 7mo semestre\Programación avanzada 1\Ejercicios\obj\Debug\net6.0\refint\Ejercicios.dll
+C:\Users\Diego\Desktop\CETI 7mo semestre\Programación avanzada 1\Ejercicios\obj\Debug\net6.0\Ejercicios.pdb
+C:\Users\Diego\Desktop\CETI 7mo semestre\Programación avanzada 1\Ejercicios\obj\Debug\net6.0\Ejercicios.genruntimeconfig.cache
+C:\Users\Diego\Desktop\CETI 7mo semestre\Programación avanzada 1\Ejercicios\obj\Debug\net6.0\ref\Ejercicios.dll
